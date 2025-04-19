@@ -1,0 +1,25 @@
+{
+  "short_name": "Zer0ality",
+  "name": "Zer0ality - Talent Management",
+  "icons": [
+    {
+      "src": "Z_favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "Z_favicon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Z_favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffde59",
+  "background_color": "#ffffff"
+}
