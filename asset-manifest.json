@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Zer0ality/static/css/main.0452c339.css",
-    "main.js": "/Zer0ality/static/js/main.11954be7.js",
+    "main.js": "/Zer0ality/static/js/main.c7a8a9f7.js",
     "static/media/Zer0ality_Logo.png": "/Zer0ality/static/media/Zer0ality_Logo.0ebbef4b968e1e4cff66.png",
     "index.html": "/Zer0ality/index.html",
     "main.0452c339.css.map": "/Zer0ality/static/css/main.0452c339.css.map",
-    "main.11954be7.js.map": "/Zer0ality/static/js/main.11954be7.js.map"
+    "main.c7a8a9f7.js.map": "/Zer0ality/static/js/main.c7a8a9f7.js.map"
   },
   "entrypoints": [
     "static/css/main.0452c339.css",
-    "static/js/main.11954be7.js"
+    "static/js/main.c7a8a9f7.js"
   ]
 }
