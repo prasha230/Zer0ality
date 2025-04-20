@@ -61,6 +61,20 @@ The site will be running at http://localhost:3000
 
 This project can be easily deployed to platforms like Netlify, Vercel, or GitHub Pages.
 
+### GitHub Pages Deployment
+
+The project is configured for GitHub Pages deployment. To deploy:
+
+```bash
+# Deploy to GitHub Pages
+npm run deploy
+```
+
+This will build the project and push it to the `gh-pages` branch of your repository.
+The site will be available at https://prasha230.github.io/Zer0ality
+
+### Manual Deployment
+
 ```bash
 # Build for production
 npm run build
